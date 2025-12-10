@@ -65,8 +65,10 @@ This project demonstrates practical mastery of:
 4. Run the compiled executable from the command line or Visual Studio debugger.
 
 ---
+## 🎥 Live Demo
+[![Rush Hour Demo](https://github.com/user-attachments/assets/5095da91-a057-4ba9-910b-b15003a63427)](https://drive.google.com/file/d/1S7o_SWdVZUg_d4Y6lUUL0j93ADwJEEDx/view?usp=sharing)
 
-## 🎥 Screenshots
+## Screenshots
 
 <img width="589" height="574" alt="Game Board" src="https://github.com/user-attachments/assets/b5278bf1-73c7-4391-a4b6-178faf3c7fda" />
 <img width="804" height="572" alt="Game Menu" src="https://github.com/user-attachments/assets/5095da91-a057-4ba9-910b-b15003a63427" />
