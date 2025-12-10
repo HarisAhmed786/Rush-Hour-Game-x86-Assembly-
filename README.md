@@ -69,6 +69,6 @@ This project demonstrates practical mastery of:
 ## 🎥 Screenshots
 
 <img width="589" height="574" alt="Game Board" src="https://github.com/user-attachments/assets/b5278bf1-73c7-4391-a4b6-178faf3c7fda" />
-<img width="1211" h<img width="804" height="572" alt="Game Menu" src="https://github.com/user-attachments/assets/5095da91-a057-4ba9-910b-b15003a63427" />
-eight="601" alt="Game Over Screen" src="https://github.com/user-attachments/assets/93023c8d-6864-41af-a0d2-fb3993ff8a47" />
+<img width="804" height="572" alt="Game Menu" src="https://github.com/user-attachments/assets/5095da91-a057-4ba9-910b-b15003a63427" />
+<img width="1211" height="601" alt="Game Over Screen" src="https://github.com/user-attachments/assets/93023c8d-6864-41af-a0d2-fb3993ff8a47" />
 <img width="770" height="260" alt="Leader Board" src="https://github.com/user-attachments/assets/71cec8e5-6aac-4b55-b21d-6cb01f3f9a2e" />
